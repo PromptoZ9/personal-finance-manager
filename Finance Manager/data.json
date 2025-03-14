@@ -1,0 +1,20 @@
+{
+    "admin1": {
+        "name": "admin1",
+        "password": "admin1",
+        "transaction": [
+            {
+                "date": "30/06/2025",
+                "category": "expense",
+                "description": "beli hp",
+                "amount": -2000000.0
+            },
+            {
+                "date": "14/03/2025",
+                "category": "income",
+                "description": "Monthly Salary",
+                "amount": 8000000.0
+            }
+        ]
+    }
+}
