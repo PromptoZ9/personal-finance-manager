@@ -28,7 +28,7 @@ This project focuses on **structured and maintainable code** by implementing **f
 
 ## 📂 File Structure
 ```
-├──main.py # Main entry point for running the program
+├── main.py # Main entry point for running the program
 ├── user_auth.py # Handles login and registration logic
 ├── transaction.py # Core transaction features (add/edit/delete/view)
 ├── storage.py # Read/write data to JSON file
