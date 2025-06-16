@@ -54,15 +54,15 @@ This project focuses on **structured and maintainable code** by implementing **f
 
 🧑‍💻 User Flow
 
-Choose Login or Register
+    Choose Login or Register
 
-Login Success, welcome user
-1. Adding Transaction        
-2. View Transaction
-3. Edit transaction list
-4. Erase Transaction
-5. View Balance
-6. exit prgram
+    Login Success, welcome user
+    1. Adding Transaction        
+    2. View Transaction
+    3. Edit transaction list
+    4. Erase Transaction
+    5. View Balance
+    6. exit prgram
 
 💡 Example Transaction Format
 ```
