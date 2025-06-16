@@ -57,11 +57,17 @@ This project focuses on **structured and maintainable code** by implementing **f
     Choose Login or Register
 
     Login Success, welcome user
-    1. Adding Transaction        
+    
+    1. Adding Transaction
+    
     2. View Transaction
+    
     3. Edit transaction list
+    
     4. Erase Transaction
+    
     5. View Balance
+    
     6. exit prgram
 
 💡 Example Transaction Format
